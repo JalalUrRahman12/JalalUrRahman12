@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Urjalal17403)](https://twitter.com/Urjalal17403)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalalur-rahman-71ba8a262/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jalalurrahman620@gmail.com)
-[![Github](https://img.shields.io/github/followers/JalalUrRahman?label=Follow&style=social)](https://github.com/JalalUrRahman12)
+[![Github](https://img.shields.io/github/followers/JalalUrRahman12?label=Follow&style=social)](https://github.com/JalalUrRahman12)
 
 - 💻 Owner of [**Jalal Ur Rahman**](https://github.com/JalalUrRahman) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
